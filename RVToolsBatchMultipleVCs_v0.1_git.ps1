@@ -260,7 +260,7 @@ foreach ($vcServer in $vcServerList)
     
     
     
-    }#end of IF short vc server itausa and western union
+    }#end of IF short vc server nameOne or NameTwo
     elseif($shortVCServer -match 'nameFour*'){
     
         if ($excludeCustomAnnotations)
@@ -276,7 +276,7 @@ foreach ($vcServer in $vcServerList)
             }#end of Else
           
     
-    }#end of elseif short vc server itausa and western union
+    }#end of elseif short vc 
     else{
     
     if ($excludeCustomAnnotations)
@@ -292,7 +292,7 @@ foreach ($vcServer in $vcServerList)
             }#end of Else
         
     
-    }#end of else vc server itausa and western union and datalog
+    }#end of else vc server NameOn or NameTwo
        
     Write-Host $Arguments
 
