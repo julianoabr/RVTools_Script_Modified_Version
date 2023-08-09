@@ -10,8 +10,9 @@ The information can be exported to csv and xlsx file(s). With a xlsx merge utili
 
 When you install RVTOOLs, in default directory (C:\Program Files (x86)\Robware\RVTools) you have a script called "RVToolsBatchMultipleVCs.ps1" I modified this to include more actions. 
 
-- Link for RVTOOLS - [Click Here To Download](https://www.robware.net/rvtools/)
+- Link for RVTOOLS Main Page - [Click Here To Access](https://www.robware.net/rvtools/)
 - Link for RVTOOLS Version Info - [Click Here to Read](https://www.robware.net/rvtools/version/)
+- Link for RVTOOLS Download - [Click Here to Download](https://www.robware.net/rvtools/download/)
 
 ## Pre-Requirements
 
